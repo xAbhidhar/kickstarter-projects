@@ -10,6 +10,8 @@ usd goal real: conversion in US dollars of the goal column.
 ## Implementation
 
 ## Algorithms
+Implemented various algorithms like:
+
 
 ## Results
 
