@@ -11,6 +11,10 @@ usd goal real: conversion in US dollars of the goal column.
 
 ## Algorithms
 Implemented various algorithms like:
+- Decision Tree
+- Random Forest
+- AdaBoostClassifier
+- Gradient Boosting Classifier
 
 
 ## Results
