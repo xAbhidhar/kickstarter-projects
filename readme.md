@@ -1,5 +1,8 @@
 # Kickstarter Projects
 the project is to predict the success of a given kickstarter project.
+
+# Problem Statement 
+
 ## Dataset
  - usd_pledged
  - usd pledge real
