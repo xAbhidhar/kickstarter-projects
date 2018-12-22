@@ -15,6 +15,8 @@ To detect
  - Deadline
  - Goal
  - Launched
+ 
+ 
 ## Data preprocesing
 ## Implementation
 
@@ -25,6 +27,6 @@ Implemented various algorithms like:
 - AdaBoostClassifier
 - Gradient Boosting Classifier
 
-
+## 
 ## Results
 
