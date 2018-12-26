@@ -27,6 +27,6 @@ Implemented various algorithms like:
 - AdaBoostClassifier
 - Gradient Boosting Classifier
 
-## 
+## Output
 ## Results
 
