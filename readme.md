@@ -2,7 +2,7 @@
 the project is to predict the success of a given kickstarter project.
 
 # Problem Statement 
-To detect whether a project will fail or not.
+To detect whether a project will fail or not based om the features.
 
 ## Dataset
  - usd_pledged
