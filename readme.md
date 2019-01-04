@@ -2,7 +2,7 @@
 the project is to predict the success of a given kickstarter project. Given the dataset predict whether a kickstarter project will be sucesfull or not.
 
 # Problem Statement 
-To detect whether a project will fail or not based om the features.
+To detect whether a project will fail or not based on the features in the dataset.
 
 ## Dataset
 The dataset contains the following features:
