@@ -19,6 +19,10 @@ The dataset contains the following features:
  
  
 ## Data preprocesing
+Loaded the data to pandas dataframe.
+Dropped in Columns with unceseeary features.
+Removed NaN
+
 ## Implementation
 
 ## Algorithms
