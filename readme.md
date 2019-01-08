@@ -18,6 +18,9 @@ The dataset contains the following features:
  - Launched
  
  
+ 
+ 
+ 
 ## Data preprocesing
 Loaded the data to pandas dataframe.
 Dropped in Columns with unceseeary features.
