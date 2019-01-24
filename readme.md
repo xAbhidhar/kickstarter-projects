@@ -30,7 +30,7 @@ Dropped in Columns with unceseeary features.
 Removed NaN
 
 ## Implementation
-
+Implemented the following algorothms.
 ## Algorithms
 Implemented various algorithms like:
 - Decision Tree
