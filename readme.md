@@ -39,5 +39,7 @@ Implemented various algorithms like:
 - Gradient Boosting Classifier
 
 ## Output
+
 ## Results
 
+Achieved the best result with the following algorithms:
