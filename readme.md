@@ -17,21 +17,14 @@ The dataset contains the following features:
  - Goal
  - Launched
  
- 
- 
- 
- 
- 
- 
- 
 ## Data preprocesing
 Loaded the data to pandas dataframe.
 Dropped in Columns with unceseeary features.
 Removed NaN
 
 ## Implementation
-Implemented the following algorothms.
-## Algorithms
+Implemented the following algorothms:
+### Algorithms
 Implemented various algorithms like:
 - Decision Tree
 - Random Forest
