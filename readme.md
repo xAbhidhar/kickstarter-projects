@@ -36,4 +36,6 @@ Implemented various algorithms like:
 ## Results
 
 Achieved the best result with the following algorithms:
-gradient boosting algorithm
+- AdaBoostClassifier
+- gradient boosting algorithm
+- Random Forest
